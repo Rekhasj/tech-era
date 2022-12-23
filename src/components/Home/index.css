@@ -1,0 +1,26 @@
+.main-container {
+  background-color: #ffffff;
+  height: 100vh;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.loader-container {
+  text-align: center;
+}
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.retry-button {
+  border: none;
+  border-radius: 2px;
+  background-color: #4656a1;
+  color: #ffffff;
+  padding: 10px 20px;
+}

@@ -1,0 +1,15 @@
+.course-item-card {
+  height: 150px;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.course-image {
+  height: 80px;
+  width: 80px;
+}
+.course-item-heading {
+  font-size: 20px;
+}

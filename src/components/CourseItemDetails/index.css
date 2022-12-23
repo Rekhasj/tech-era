@@ -1,0 +1,16 @@
+.course-item-details-card {
+  display: flex;
+}
+
+.course-item-details {
+  height: 300px;
+  width: 300px;
+}
+
+.item-card {
+  width: 40%;
+  padding: 20px;
+}
+.description {
+  font-family: 'Roboto';
+}
